@@ -7,7 +7,7 @@
 	<description>DynamoDB data migration tool for Java</description>
 	<url>https://github.com/dynamobee/dynamobee</url>
 
-	<groupId>com.github.dynamobee</groupId>
+	<groupId>com.github.CB1Portal</groupId>
 	<artifactId>dynamobee</artifactId>
 	<version>0.8-SNAPSHOT</version>
 
